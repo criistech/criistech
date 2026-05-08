@@ -1,23 +1,41 @@
-## Hi there 👋
+## Hi, I'm Cristia 👋
 
-<!--
-**criistech/criistech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-blue)
 ![Kali](https://img.shields.io/badge/Kali-Linux-blue)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab-green)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-orange)
+
+
+Cybersecurity student focused on building skills in security operations and networking. 
+
+## Current Focus 
+- Cybersecurity fundamentals
+- Home Lab Development
+- Linux & Windows Admin
+- Network Security Basics
+- Security Monitoring
+
+## 🧪 Current Project
+- Home Security Lab
+
+
+## ✏️ Tools &  Techologies 
+- VirtualBox
+- Kali Linux
+- Ubuntu
+- Wireshark
+- Nmap
+- Git & Github
+
+## 🏁Goals
+Building a strong cybersecurity foundation with long-term interest in: 
+- Security Operatios (SOC)
+- Penetration Testing
+- Cloud Security
+
+  ## LinkedIn 📩
+  - 
+  
 
 
 
