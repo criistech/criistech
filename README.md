@@ -4,6 +4,7 @@
 ![Kali](https://img.shields.io/badge/Kali-Linux-blue)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab-green)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-orange)
+![Python](https://img.shields.io/badge/Python-Beginner-yellow)
 
 
 Cybersecurity student focused on building skills in security operations and networking. 
@@ -37,10 +38,3 @@ Building a strong cybersecurity foundation with long-term interest in:
   - 
   
 
-
-
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-blue)
-![Kali](https://img.shields.io/badge/Kali-Linux-blue)
-![Python](https://img.shields.io/badge/Python-Beginner-yellow)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-orange)
-![Git](https://img.shields.io/badge/Git-Version_Control-red)
