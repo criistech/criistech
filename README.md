@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-blue)
+![Kali](https://img.shields.io/badge/Kali-Linux-blue)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab-green)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-orange)
