@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 ![Kali](https://img.shields.io/badge/Kali-Linux-blue)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab-green)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-orange)
+
+
+
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-blue)
+![Kali](https://img.shields.io/badge/Kali-Linux-blue)
+![Python](https://img.shields.io/badge/Python-Beginner-yellow)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-orange)
+![Git](https://img.shields.io/badge/Git-Version_Control-red)
