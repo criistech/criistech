@@ -1,4 +1,4 @@
-## Hi, I'm Cristia 👋
+## Hi, I'm Cristina 👋
 
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-blue)
 ![Kali](https://img.shields.io/badge/Kali-Linux-blue)
