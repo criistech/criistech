@@ -35,5 +35,4 @@ Building a strong cybersecurity foundation with long-term interest in:
 - Cloud Security
 
 ## LinkedIn 📩
-https://www.linkedin.com/in/cristina-hermida-de-castro-5267b4231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-
+[https://www.linkedin.com/in/cristina-hermida-de-castro-5267b4231]
